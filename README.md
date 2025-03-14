@@ -160,9 +160,10 @@ if(!quest) {
 ```
 </details>
 
+IF The Above Code Dosent Work try the Below Code
 
 <details>
-	<summmary>Click to Expand</summmary>
+	<summary>Click to Expand</summary>
 
  
  ```js
