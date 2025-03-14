@@ -222,3 +222,5 @@ A: Discord has patched the script from working in browsers. Use the desktop app,
 
 A: Make sure you've started streaming *before* running the script
 
+Credit Goes to Aamiaa and RussDev07
+
